@@ -1,7 +1,17 @@
 /*nav*/
 #main-nav{
-    background-color: #f7f7f7;
-    color: #999999;
+    background-color: #accff5;
+    color: #83b8f0;
+}
+
+body {
+    background-image: url(./assets/Bright-Light-Wave-Backgrounds-HD-picture.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 #title{
@@ -10,10 +20,16 @@
 
 #text{
     text-align: center;
+    color: rgb(20, 141, 248);
 }
 
 #text2{
     text-align: center;
+    color: rgb(20, 141, 248);
+}
+
+h3{
+    color: rgb(20, 141, 248);
 }
 
 #img{
@@ -26,13 +42,12 @@ section{
   }
 
 
-
  
 /* Footer */
 
 #footer {
-    background-color: #f7f7f7;
-    color: #999999;
+    background-color: #eaba09;
+    color: black;
     padding: 4.5em 0 2.5em 0;
     text-align: center;
 }
@@ -41,6 +56,7 @@ section{
 #footer .copyright {
     font-size: 0.8em;
 }
+
 
 
 
