@@ -30,6 +30,7 @@ body {
 
 h3{
     color: rgb(20, 141, 248);
+    
 }
 
 #img{
@@ -39,7 +40,13 @@ h3{
 
 section{
     padding: 60px 0;
-  }
+}
+
+#btn {
+    background-color: transparent;
+    border-radius: 10%;
+}
+
 
 
  
@@ -56,7 +63,5 @@ section{
 #footer .copyright {
     font-size: 0.8em;
 }
-
-
 
 
