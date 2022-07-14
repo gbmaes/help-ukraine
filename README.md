@@ -9,3 +9,5 @@ Wep page to raise funds for Ukraine.
 >this project is the third one from a 30 straight days coding challenge;
 
 >The aim of the project is to test my new habilities using Bootstrap and practicing HTML and CSS.
+
+>Project finished: 14/07/2022
