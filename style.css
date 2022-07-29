@@ -15,7 +15,6 @@ body {
     flex-direction: column;
     font-family: Montserrat Medium;
 
-    
 }
 
 #title{
@@ -56,10 +55,7 @@ section{
     border: 3px solid rgb(247, 250, 252);
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
-   
-   
     background-color : transparent;
-    
     
 }
 
@@ -68,8 +64,6 @@ section{
     background-color: rgb(20, 163, 234);
 }
 
-
- 
 /* Footer */
 
 #footer {
@@ -86,8 +80,6 @@ section{
 
 /* title style */
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
-
-    
 
 h1 {
   font-family: "Montserrat Medium";
